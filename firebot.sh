@@ -17,7 +17,7 @@ if [ "$1" = "--help" ]; then
 elif [ "$1" = "--about" ]; then
   echo -e "
 
-        \033[31;47mJack Telegram Bot\033[0m
+        \033[31;47mFire Bot \033[0m
 
          By Iman Daneshi
 
