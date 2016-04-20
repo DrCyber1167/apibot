@@ -5,8 +5,8 @@ greetings =
 	"Yo `%s` !": "[Yy]o #{bot_first_name}"
 	"Hi `%s` !
 I'm `#{bot_first_name}`
-A multi purpose Telegram bot based on
-[Jack telegram bot](https://github.com/SEEDTEAM/jack-telegram-bot) | @imandabot": "^[!/#]about$"
+A multi purpose Telegram Developed by
+@parsaalemi ": "^[!/#]about$"
 --Plz do not remove the repo url :^)
 run = (msg,matches) ->
 	for k,v in pairs greetings
