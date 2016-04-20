@@ -59,9 +59,6 @@ _ =
     "who"
     "wikipedia"
     --"youtube"
-    "Bold"
-    "Italic" 
-    "Music""
-
+    
   }
 return _
