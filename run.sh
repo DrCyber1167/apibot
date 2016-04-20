@@ -35,7 +35,7 @@ else
 
         \033[31;47mJack Telegram Bot\033[0m
 
-         By Iman Daneshi
+         By Parsa Alemi
 
               \033[5mV $ver\033[0m
 "
