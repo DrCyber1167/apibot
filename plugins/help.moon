@@ -100,6 +100,7 @@ Will return a short list of plugins
 Will return full list of plugins with their commands
 `/help [plugin_name]`
 Will return info about that plugin
+🔥Fre Bot🔥
 "
 patterns = {
   "^[/!#](help) (.*)$"
